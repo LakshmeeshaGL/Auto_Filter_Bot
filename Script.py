@@ -229,7 +229,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/Monster_Mind_Moviez">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/Monster_Mind_Moviez">[ ᴅʀᴇᴀᴍxʙᴏᴛᴢ ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/Monster_Mind_Moviez">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/Monster_Mind_Moviez">[ Monster Mind Moviez ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
